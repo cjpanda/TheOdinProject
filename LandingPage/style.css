@@ -28,8 +28,8 @@ body {
   display: flex;
   background: var(--light-color);
   justify-content: space-between;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 8%;
+  padding-right: 8%;
   padding-top: 5px;
   color: var(--dark-color);
   margin: 0;
@@ -57,8 +57,8 @@ body {
   background: var(--light-color);
   display: flex;
   justify-content: space-between;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 8%;
+  padding-right: 8%;
 }
 .hero-container {
   padding: 50px;
