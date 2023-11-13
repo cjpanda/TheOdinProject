@@ -5,4 +5,3 @@
 ## 2. Landing Page: [Live Site](https://cjpanda.github.io/landingpage/)  [Repo Link](https://github.com/cjpanda/landingpage)
 
 
-[The Odin Prject](https://github.com/cjpanda/TheOdinProject)
