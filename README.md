@@ -1,4 +1,4 @@
-# Theese are My Projects from the TheOdinProject
+# These are My Projects from the TheOdinProject
 
 ## Projects
 ## 1. Signup Page: [Live Site](https://cjpanda.github.io/signuppage/) | [Repo Link](https://github.com/cjpanda/signuppage)
