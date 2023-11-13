@@ -1,4 +1,4 @@
-# The Series is MyProject from the TheOdinProject
+# Theese are My Projects from the TheOdinProject
 
 ## Projects
 ## 1. Signup Page
